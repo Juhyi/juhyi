@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=IoT_Study&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20juhyi's%20GitHibe-nl--IoT&fontSize=25&fontColor=d6ace6)
 
 
 <!--
