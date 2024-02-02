@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20juhyi's%20GitHibe-nl--IoT&fontSize=25&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20juhyi's%20GitHibe-nl--⭐IoT⭐&fontSize=25&fontColor=d6ace6)
+
 ![header](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-purple)
+
+
 
 <!--
 **Juhyi/juhyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
