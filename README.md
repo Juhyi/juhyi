@@ -1,7 +1,8 @@
-### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to%20juhyi's%20GitHibe-nl--⭐IoT⭐&fontSize=25&fontColor=d6ace6)
 
+
+![slice](https://capsule-render.vercel.app/api?type=slice&color=0:EEFF00,100:a82da8&height=200&text=Welcome%20to%20Juhyi's%20Githube&desc=IoT%20Development%20Study%20Repository&descSize=18&descAlign=60&descAlignY=45&fontSize=43&fontAlign=70&fontAlignY=20&rotate=13)
+#### Hi there ✨ 
 ![header](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-purple)
 
 
