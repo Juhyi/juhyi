@@ -1,7 +1,8 @@
 
-
-
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome%20to%20Juhyi's%20Githube&desc=IoT%20Development%20Study%20Repository&descSize=18&descAlign=60&descAlignY=45&fontSize=43&fontAlign=70&fontAlignY=20&rotate=13&animation=fadeIn)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" />
+</div>
+<!--![slice](https://capsule-render.vercel.app/api?*type=slice&color=auto&height=200&text=Welcome%20to%20Juhyi's%20Githube&desc=IoT%20Development%20Study%20Repository&descSize=18&descAlign=60&descAlignY=45&fontSize=43&fontAlign=70&fontAlignY=20&rotate=13&animation=fadeIn)-->
 
 <!--
 **Juhyi/juhyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
