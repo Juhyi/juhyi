@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" />
 </div>
-
+<img src="https://www.canva.com/design/DAGIq8-ijT8/T67tu9E_FIkluQ4focAL0w/watch?utm_content=DAGIq8-ijT8&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
 <h2 align="center">✨ Tech Stack ✨</h2>
 
 <div align="center">
