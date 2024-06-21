@@ -15,7 +15,7 @@ Email : dlwngml201@naver.com </h3>
   <img height="50" src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" title="C++">
   <img height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" title="Python">
   <img height="50" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" title="mssql">
-
+<br>
 </div>
 <h3 align="center">✔ Front-End </h3>
 <div align="center">
@@ -23,10 +23,9 @@ Email : dlwngml201@naver.com </h3>
   <img height="50" src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000" title="CSS3"/>
   <img height="50" src="https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000" title="javascipt"/>
 </div>
-
+<br>
 
 <h2 align="center">🛠️Using Tools</h2>
-<h3 align="center">✔ Back-End </h3>
 <div align="center">
   <img height="40" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" title="Visual Studio Code">
   <img height="40" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" title="Visual Studio">
@@ -34,10 +33,10 @@ Email : dlwngml201@naver.com </h3>
   <img height="40" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
   <img height="40" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
 </div>
-
+<br>
 <h2 align="center">📋Project List</h2>
-#### Hi there ✨ 
-![Juhyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyi&count_private=true)
+
 ![header](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=shades-of-black)
+![Juhyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyi&count_private=true)
 
 
