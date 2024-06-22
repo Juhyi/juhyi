@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" />
+  <!--img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" /-->
 </div>
 
 <h2 align="center"> 👩🏻‍💻 Profile </h2>
