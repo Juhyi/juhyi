@@ -54,14 +54,12 @@ Email : beadshee2@naver.com </h3>
 
 <br>
 
-<h2 align="center">🏫Education</h2>
+<!--h2 align="center">🏫Education</h2-->
 <h4 align = "center">
-  ✔️ 2018.02  부산여자고등학교 졸업 <br>
+<!--   ✔️ 2018.02  부산여자고등학교 졸업 <br>
   ✔️ 2024.02  동아대학교 전자공학과 학사 졸업 <br><br>
-  🚀 2024.01.29 ~ 2024.09.06 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 (진행중) <br>
+  🚀 2024.01.29 ~ 2024.09.06 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 (진행중) <br> -->
 </h4>
-<br>
-
 
 <h2 align="center">📋Project List</h2>
 
