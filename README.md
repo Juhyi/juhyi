@@ -37,7 +37,7 @@ Email : beadshee2@naver.com </h3>
   <img height="50" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000" title="Arduino">
   <img height="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   &nbsp&nbsp&nbsp&nbsp
+   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   
   <img height="50" src="https://img.icons8.com/?size=100&id=rUTvHOGiFGHn&format=png&color=000000" title = "Notion">
   <img height="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" tilte = "github">
