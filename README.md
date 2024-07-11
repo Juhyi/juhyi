@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" /> 
+<!-- <img src="https://raw.githubusercontent.com/Juhyi/juhyi/main/jpgs/Welcome%20juhyi%E2%80%99s%20githib%20(1).gif" />  -->
 </div>
 
 <h2 align="center"> 👩🏻‍💻 Profile </h2>
@@ -48,7 +48,7 @@ Email : beadshee2@naver.com </h3>
 
 <h2 align="center">📝technical specifications📝</h2>
 
-<div align="center"> 
+<!--div align="center"> 
   
   |기술분류|설명|
   |--|--|
@@ -60,7 +60,7 @@ Email : beadshee2@naver.com </h3>
   |HTML5|- 웹 페이지 구조 설계 및 테그 사용 <br>- 시멘틱 테그 활용 및 폼 요소 사용|
   |CSS3|- 기본적인 스타일링 및 레이아웃 구성 <br>- 선택자 활용 |
   |jQuery|- jQuery를 사용하여 HTML 문서의 요소를 선택하고 조작하는 방법을 이해 <br>- CSS 선택자를 활용하여 요소를 선택하고 스타일 변경 <br>- 클릭 등 이벤트를 jQuery를 통해 처리할 수 있음|
-</div>
+</div-->
 
 <br>
 
