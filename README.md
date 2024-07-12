@@ -72,9 +72,13 @@ Email : beadshee2@naver.com </h3>
 </h4>
 
 <h2 align="center">📋Project List</h2>
-
-
-
+<div align= "center">
+  
+  🚨🚦RasPi/WPF TOYPROJECT 스마트 센서 허브 프로그램 : SmartSensorHub [🔗Click ME!!](https://github.com/Juhyi/SmartSensorHub_toyproject)
+  
+  🏫🎓WINFORM TOYPROJECT  : 학생 정보 관리 프로그램 [🔗Click ME!!](https://github.com/Juhyi/winform-toyproject-2024) <br>
+  
+  🏥🚑WPF TOYPROJECT  : 대전 치과 정보 서비스앱 [🔗Click ME!!](https://github.com/Juhyi/wpf-toyproject-2024) <br>
 
 
 
