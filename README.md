@@ -45,7 +45,24 @@ Email : beadshee2@naver.com </h3>
 </div>
 <br>
 
+<!--h2 align="center">🏫Education</h2-->
+<h4 align = "center">
+<!--   ✔️ 2018.02  부산여자고등학교 졸업 <br>
+  ✔️ 2024.02  동아대학교 전자공학과 학사 졸업 <br><br>
+  🚀 2024.01.29 ~ 2024.09.06 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 (진행중) <br> -->
+</h4>
 
+<h2 align="center">📋Project List</h2>
+<div align= "center">
+  
+  🚨🚦RasPi/WPF TOYPROJECT 스마트 센서 허브 프로그램 : SmartSensorHub [🔗Click ME!!](https://github.com/Juhyi/SmartSensorHub_toyproject)
+  
+  🏫🎓WINFORM TOYPROJECT  : 학생 정보 관리 프로그램 [🔗Click ME!!](https://github.com/Juhyi/winform-toyproject-2024) <br>
+  
+  🏥🚑WPF TOYPROJECT  : 대전 치과 정보 서비스앱 [🔗Click ME!!](https://github.com/Juhyi/wpf-toyproject-2024) <br>
+
+
+<Br>
 <h2 align="center">📝technical specifications📝</h2>
 
 <div align="center"> 
@@ -64,21 +81,7 @@ Email : beadshee2@naver.com </h3>
 
 <br>
 
-<!--h2 align="center">🏫Education</h2-->
-<h4 align = "center">
-<!--   ✔️ 2018.02  부산여자고등학교 졸업 <br>
-  ✔️ 2024.02  동아대학교 전자공학과 학사 졸업 <br><br>
-  🚀 2024.01.29 ~ 2024.09.06 2024 부경대학교 윈도우 플랫폼기반 IoT 시스템 개발자 양성과정 (진행중) <br> -->
-</h4>
 
-<h2 align="center">📋Project List</h2>
-<div align= "center">
-  
-  🚨🚦RasPi/WPF TOYPROJECT 스마트 센서 허브 프로그램 : SmartSensorHub [🔗Click ME!!](https://github.com/Juhyi/SmartSensorHub_toyproject)
-  
-  🏫🎓WINFORM TOYPROJECT  : 학생 정보 관리 프로그램 [🔗Click ME!!](https://github.com/Juhyi/winform-toyproject-2024) <br>
-  
-  🏥🚑WPF TOYPROJECT  : 대전 치과 정보 서비스앱 [🔗Click ME!!](https://github.com/Juhyi/wpf-toyproject-2024) <br>
 
 
 
